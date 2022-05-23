@@ -140,7 +140,7 @@ dmypy.json
 .vscode/
 *.code-workspace
 
-db.sqlite3:Zone.Identifier
+yatube/db.sqlite3:Zone.Identifier
 
 # Local History for Visual Studio Code
 .history/
